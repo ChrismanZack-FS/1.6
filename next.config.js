@@ -2,7 +2,7 @@
 const nextConfig = {
 	output: "export",
 	reactStrictMode: true,
-	basePath: "/memory-lane",
+	basePath: "/1.6",
 };
 
 module.exports = nextConfig;
